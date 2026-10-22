@@ -1916,7 +1916,7 @@
   },
   {
     "name": "erpnext_rd",
-    "title": "Dominican Republic Compliance (ERPNext RD)",
+    "title": "RD Compliance",
     "description": "Dominican Republic localization for ERPNext and Frappe HR: NCF and e-CF (DGII electronic invoicing), DGII tax reports, RNC registry and Dominican payroll",
     "repo": "https://github.com/daniellora7/ERPNext-DR-Compilance",
     "logo_url": "https://raw.githubusercontent.com/daniellora7/ERPNext-DR-Compilance/main/erpnext_rd/public/images/erpnext_rd_logo.svg",
