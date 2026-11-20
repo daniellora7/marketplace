@@ -12,7 +12,7 @@
       "Support"
     ],
     "category": "Applications",
-    "stars": 3184,
+    "stars": 3506,
     "releases": "apps/helpdesk.json"
   },
   {
@@ -27,7 +27,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 24,
     "releases": "apps/telephony.json"
   },
   {
@@ -40,7 +40,7 @@
     "documentation": "https://github.com/navariltd/navari_rfq_opening?tab=readme-ov-file#navari_rfq_opening",
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 15,
     "releases": "apps/rfq_opening_process.json"
   },
   {
@@ -53,7 +53,7 @@
     "documentation": "https://docs.axentor.app/EG%20Compliance/Introduction",
     "categories": [],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 27,
     "releases": "apps/erpnext_egypt_compliance.json"
   },
   {
@@ -85,7 +85,7 @@
       "Productivity"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 4,
     "releases": "apps/easy_cash.json"
   },
   {
@@ -100,7 +100,7 @@
       "Utility"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 17,
     "releases": "apps/scan_me.json"
   },
   {
@@ -115,7 +115,7 @@
       "Utility"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 5,
     "releases": "apps/sales_warehouse_selector.json"
   },
   {
@@ -131,7 +131,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 17,
     "releases": "apps/uae_erpgulf.json"
   },
   {
@@ -147,7 +147,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 3,
     "releases": "apps/nigeria_compliance_via_digitax.json"
   },
   {
@@ -162,7 +162,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 6,
     "releases": "apps/whatsapp_automation_pro.json"
   },
   {
@@ -177,7 +177,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 36,
     "releases": "apps/projectit.json"
   },
   {
@@ -208,7 +208,7 @@
       "Healthcare"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 562,
     "releases": "apps/marley_health.json"
   },
   {
@@ -225,7 +225,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 3,
     "releases": "apps/burundi_compliance.json"
   },
   {
@@ -241,7 +241,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 12,
     "releases": "apps/za_local.json"
   },
   {
@@ -256,7 +256,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 8,
     "releases": "apps/navari_cams_biometric.json"
   },
   {
@@ -269,7 +269,7 @@
     "documentation": "https://github.com/Ranganathanfinstien/Frappe-DSC/blob/develop/README.md",
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 4,
     "releases": "apps/e_sign.json"
   },
   {
@@ -282,7 +282,7 @@
     "documentation": "https://github.com/PravinKumarJ-Finstein/reportStudio/blob/develop/README.md",
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 4,
     "releases": "apps/report_builder.json"
   },
   {
@@ -297,7 +297,7 @@
       "Themes"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 3,
     "releases": "apps/fintheme_and_sounds.json"
   },
   {
@@ -312,7 +312,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 1,
     "releases": "apps/pinelabs_fin.json"
   },
   {
@@ -327,7 +327,7 @@
       "Extension"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 2,
     "releases": "apps/visitormanagement.json"
   },
   {
@@ -344,7 +344,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 497,
     "releases": "apps/frappe_whatsapp.json"
   },
   {
@@ -361,7 +361,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 21,
     "releases": "apps/erpnext_mexico_compliance.json"
   },
   {
@@ -377,7 +377,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 2,
     "releases": "apps/vat_compliance.json"
   },
   {
@@ -393,7 +393,7 @@
       "Utilities"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 22,
     "releases": "apps/workboard.json"
   },
   {
@@ -408,7 +408,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 1,
     "releases": "apps/quickbooks_master_sync.json"
   },
   {
@@ -423,7 +423,7 @@
       "Utility"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 5,
     "releases": "apps/frappe_file_merge.json"
   },
   {
@@ -439,7 +439,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 4,
     "releases": "apps/erpnext_portugal.json"
   },
   {
@@ -470,7 +470,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 10,
     "releases": "apps/erpnext_s3_integration.json"
   },
   {
@@ -486,7 +486,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 5,
     "releases": "apps/fbr_e_invoicing.json"
   },
   {
@@ -502,7 +502,7 @@
       "Productivity"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 22,
     "releases": "apps/pospire.json"
   },
   {
@@ -515,7 +515,7 @@
     "documentation": "https://appetech.io/docs/appe",
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 20,
     "releases": "apps/appe.json"
   },
   {
@@ -530,7 +530,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 115,
     "releases": "apps/banking.json"
   },
   {
@@ -546,7 +546,7 @@
       "Utilities"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 45,
     "releases": "apps/forms_pro.json"
   },
   {
@@ -559,7 +559,7 @@
     "documentation": "https://docs.frappe.io/erpnext/user/manual/en/education",
     "categories": [],
     "category": "Applications",
-    "stars": 536,
+    "stars": 717,
     "releases": "apps/education.json"
   },
   {
@@ -574,7 +574,7 @@
       "Themes"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 35,
     "releases": "apps/saas_theme.json"
   },
   {
@@ -589,7 +589,7 @@
       "Utility"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 3,
     "releases": "apps/bulk_import_export_template.json"
   },
   {
@@ -605,7 +605,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 2,
     "releases": "apps/zikpro_invoice_ocr.json"
   },
   {
@@ -620,7 +620,7 @@
       "AI"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 337,
     "releases": "apps/frappe_assistant_core.json"
   },
   {
@@ -636,7 +636,7 @@
       "Payments"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 28,
     "releases": "apps/frappe_mpsa_payments.json"
   },
   {
@@ -651,7 +651,7 @@
       "Communication"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 849,
     "releases": "apps/raven.json"
   },
   {
@@ -667,7 +667,7 @@
       "Website"
     ],
     "category": "Applications",
-    "stars": 408,
+    "stars": 461,
     "releases": "apps/wiki.json"
   },
   {
@@ -684,7 +684,7 @@
       "Productivity"
     ],
     "category": "Applications",
-    "stars": 492,
+    "stars": 533,
     "releases": "apps/gameplan.json"
   },
   {
@@ -700,7 +700,7 @@
       "Human Resources"
     ],
     "category": "Applications",
-    "stars": 8079,
+    "stars": 9088,
     "releases": "apps/hrms.json"
   },
   {
@@ -716,7 +716,7 @@
       "Featured"
     ],
     "category": "Developer Tools",
-    "stars": 946,
+    "stars": 1046,
     "releases": "apps/insights.json"
   },
   {
@@ -732,7 +732,7 @@
       "Website"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 22,
     "releases": "apps/blog.json"
   },
   {
@@ -749,7 +749,7 @@
       "Website"
     ],
     "category": "Developer Tools",
-    "stars": 2045,
+    "stars": 2499,
     "releases": "apps/builder.json"
   },
   {
@@ -766,7 +766,7 @@
       "Utility"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 170,
     "releases": "apps/mint.json"
   },
   {
@@ -782,7 +782,7 @@
       "Extension"
     ],
     "category": "Applications",
-    "stars": 299,
+    "stars": 370,
     "releases": "apps/lending.json"
   },
   {
@@ -797,7 +797,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 2981,
+    "stars": 3432,
     "releases": "apps/lms.json"
   },
   {
@@ -814,7 +814,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 2819,
+    "stars": 4010,
     "releases": "apps/crm.json"
   },
   {
@@ -830,7 +830,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 25,
+    "stars": 37,
     "releases": "apps/whatsapp.json"
   },
   {
@@ -847,7 +847,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 35439,
+    "stars": 41469,
     "releases": "apps/erpnext.json"
   },
   {
@@ -863,7 +863,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 53,
     "releases": "apps/erpnext_indonesia_localization.json"
   },
   {
@@ -880,7 +880,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 26,
     "releases": "apps/kenya_compliance_via_slade.json"
   },
   {
@@ -895,7 +895,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 21,
     "releases": "apps/erpnext_australian_localisation.json"
   },
   {
@@ -912,7 +912,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 108,
     "releases": "apps/eu_einvoice.json"
   },
   {
@@ -929,7 +929,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 62,
     "releases": "apps/csf_ke.json"
   },
   {
@@ -944,7 +944,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 98,
     "releases": "apps/erpnext_germany.json"
   },
   {
@@ -960,7 +960,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 31,
     "releases": "apps/myinvois_erpgulf.json"
   },
   {
@@ -976,7 +976,7 @@
       "Communication"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 73,
     "releases": "apps/frappe_whatsapp_chatbot.json"
   },
   {
@@ -989,7 +989,7 @@
     "documentation": "https://github.com/shridarpatil/whatsapp_chat",
     "categories": [],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 25,
     "releases": "apps/whatsapp_chat.json"
   },
   {
@@ -1005,7 +1005,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 65,
     "releases": "apps/zatca_erpgulf.json"
   },
   {
@@ -1020,7 +1020,7 @@
       "Extension"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 23,
     "releases": "apps/eps.json"
   },
   {
@@ -1050,7 +1050,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 21,
     "releases": "apps/biometric_integration.json"
   },
   {
@@ -1066,7 +1066,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 28,
     "releases": "apps/offsite_backups.json"
   },
   {
@@ -1081,7 +1081,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 12,
     "releases": "apps/frappe_slack_connector.json"
   },
   {
@@ -1096,7 +1096,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 92,
     "releases": "apps/frappe_appointment.json"
   },
   {
@@ -1109,7 +1109,7 @@
     "documentation": "https://github.com/navariltd/tims_incotex?tab=readme-ov-file#tims_incotex",
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 1,
     "releases": "apps/tims_incotex.json"
   },
   {
@@ -1124,7 +1124,7 @@
       "E-Commerce"
     ],
     "category": "Integrations",
-    "stars": 185,
+    "stars": 217,
     "releases": "apps/ecommerce_integrations.json"
   },
   {
@@ -1139,7 +1139,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 53,
     "releases": "apps/erpnext_datev.json"
   },
   {
@@ -1152,7 +1152,7 @@
     "documentation": "https://github.com/alyf-de/simple_subscription#simple-subscription",
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 10,
     "releases": "apps/simple_subscription.json"
   },
   {
@@ -1165,7 +1165,7 @@
     "documentation": "https://github.com/dhwani-ris/frappe-cloud-storage",
     "categories": [],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 10,
     "releases": "apps/multi_cloud_storage.json"
   },
   {
@@ -1180,7 +1180,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 70,
     "releases": "apps/utility_billing.json"
   },
   {
@@ -1196,7 +1196,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 94,
     "releases": "apps/ksa_compliance.json"
   },
   {
@@ -1211,7 +1211,7 @@
       "Communication"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 34,
     "releases": "apps/email_delivery_service.json"
   },
   {
@@ -1226,7 +1226,7 @@
       "Utilities"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 100,
     "releases": "apps/it_management.json"
   },
   {
@@ -1241,7 +1241,7 @@
       "Productivity"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 13,
     "releases": "apps/working_time.json"
   },
   {
@@ -1256,7 +1256,7 @@
       "Utility"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 28,
     "releases": "apps/pwa_frappe.json"
   },
   {
@@ -1271,7 +1271,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 4,
     "releases": "apps/frappe_msg91_integration.json"
   },
   {
@@ -1287,7 +1287,7 @@
       "Utilities"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 4,
     "releases": "apps/leave_calendar.json"
   },
   {
@@ -1300,7 +1300,7 @@
     "documentation": "https://github.com/resilient-tech/razorpayx-integration/tree/version-15/docs",
     "categories": [],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 26,
     "releases": "apps/razorpayx_integration.json"
   },
   {
@@ -1313,7 +1313,7 @@
     "documentation": "https://github.com/resilient-tech/payments-processor",
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 17,
     "releases": "apps/payments_processor.json"
   },
   {
@@ -1326,7 +1326,7 @@
     "documentation": "https://github.com/resilient-tech/payment_integration_utils",
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 17,
     "releases": "apps/payment_integration_utils.json"
   },
   {
@@ -1341,7 +1341,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 5,
     "releases": "apps/uganda_compliance.json"
   },
   {
@@ -1357,7 +1357,7 @@
       "Payments"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 1,
     "releases": "apps/frappe_tingg_payments.json"
   },
   {
@@ -1372,7 +1372,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 25,
     "releases": "apps/frappe_paystack.json"
   },
   {
@@ -1387,7 +1387,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 153,
     "releases": "apps/erpnext_shipping.json"
   },
   {
@@ -1402,7 +1402,7 @@
       "Productivity"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 115,
     "releases": "apps/pdf_on_submit.json"
   },
   {
@@ -1418,7 +1418,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 9,
     "releases": "apps/edocument.json"
   },
   {
@@ -1433,7 +1433,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 9,
     "releases": "apps/sipgate.json"
   },
   {
@@ -1446,7 +1446,7 @@
     "documentation": null,
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 63,
     "releases": "apps/go1_cms.json"
   },
   {
@@ -1461,7 +1461,7 @@
       "Human Resources"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 61,
     "releases": "apps/hr_addon.json"
   },
   {
@@ -1489,7 +1489,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 5,
     "releases": "apps/erpnext_sumup.json"
   },
   {
@@ -1504,7 +1504,7 @@
       "Extension"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 3,
     "releases": "apps/advanced_compliance.json"
   },
   {
@@ -1521,7 +1521,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 286,
     "releases": "apps/india_compliance.json"
   },
   {
@@ -1534,7 +1534,7 @@
     "documentation": "https://github.com/asoral/E-sign-App/blob/master/README.md",
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 12,
     "releases": "apps/esign_app.json"
   },
   {
@@ -1547,7 +1547,7 @@
     "documentation": "https://github.com/tbocloud/duplicate?tab=readme-ov-file#easy-duplicate-role",
     "categories": [],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 24,
     "releases": "apps/duplicate.json"
   },
   {
@@ -1563,7 +1563,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 7,
     "releases": "apps/erpnext_ec.json"
   },
   {
@@ -1579,7 +1579,7 @@
       "Support"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 29,
     "releases": "apps/genie.json"
   },
   {
@@ -1594,7 +1594,7 @@
       "Utility"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 3,
     "releases": "apps/fc_site_manager.json"
   },
   {
@@ -1610,7 +1610,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 14,
     "releases": "apps/frappe_openai_integration.json"
   },
   {
@@ -1625,7 +1625,7 @@
       "Utilities"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 19,
     "releases": "apps/nl_attendance_timesheet.json"
   },
   {
@@ -1640,7 +1640,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 130,
     "releases": "apps/cargo_management.json"
   },
   {
@@ -1671,7 +1671,7 @@
       "Utilities"
     ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 8,
     "releases": "apps/meeting_management.json"
   },
   {
@@ -1686,7 +1686,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 2,
     "releases": "apps/email_reminder.json"
   },
   {
@@ -1701,7 +1701,7 @@
       "Business"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 30,
     "releases": "apps/propms.json"
   },
   {
@@ -1716,7 +1716,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 4,
     "releases": "apps/productivity_next.json"
   },
   {
@@ -1731,7 +1731,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 0,
+    "stars": 6,
     "releases": "apps/csf_tz.json"
   },
   {
@@ -1746,7 +1746,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 13,
     "releases": "apps/navari_frappehr_biostar.json"
   },
   {
@@ -1761,7 +1761,7 @@
       "Accounting"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 39,
     "releases": "apps/check_run.json"
   },
   {
@@ -1772,9 +1772,11 @@
     "logo_url": "https://avatars.githubusercontent.com/u/836974?v=4",
     "website": "https://github.com/frappe/payments",
     "documentation": "https://github.com/frappe/payments/blob/develop/README.md",
-    "categories": ["Integrations"],
+    "categories": [
+      "Integrations"
+    ],
     "category": "Extensions",
-    "stars": 165,
+    "stars": 182,
     "releases": "apps/payments.json"
   },
   {
@@ -1787,7 +1789,7 @@
     "documentation": null,
     "categories": [],
     "category": "Applications",
-    "stars": 501,
+    "stars": 562,
     "releases": "apps/health.json"
   },
   {
@@ -1803,7 +1805,7 @@
       "Communication"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 7,
     "releases": "apps/raven_integration.json"
   },
   {
@@ -1818,7 +1820,7 @@
       "Security"
     ],
     "category": "Utilities",
-    "stars": 1,
+    "stars": 2,
     "releases": "apps/block_administrator.json"
   },
   {
@@ -1833,7 +1835,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 4,
+    "stars": 12,
     "releases": "apps/frappe_microsoft365.json"
   },
   {
@@ -1849,7 +1851,7 @@
       "Business"
     ],
     "category": "Applications",
-    "stars": 0,
+    "stars": 92,
     "releases": "apps/buzz.json"
   },
   {
@@ -1865,7 +1867,7 @@
       "E-Commerce"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 3,
     "releases": "apps/bwh_shipping.json"
   },
   {
@@ -1880,7 +1882,7 @@
       "Security"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 8,
     "releases": "apps/passkeys.json"
   },
   {
@@ -1896,7 +1898,7 @@
       "Payments"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 5,
     "releases": "apps/bwh_payments.json"
   },
   {
@@ -1911,7 +1913,7 @@
       "Hospitality"
     ],
     "category": "Applications",
-    "stars": 0,
+    "stars": 106,
     "releases": "apps/kamra.json"
   },
   {
@@ -1927,7 +1929,7 @@
       "Non-Profit"
     ],
     "category": "Applications",
-    "stars": 0,
+    "stars": 35,
     "releases": "apps/churchit.json"
   },
   {
@@ -1942,7 +1944,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 0,
+    "stars": 10,
     "releases": "apps/ekyc_india.json"
   },
   {
@@ -1953,9 +1955,11 @@
     "logo_url": "https://raw.githubusercontent.com/frappe/pdf_forms/develop/pdf_forms/public/images/pdf-forms-logo-large.svg",
     "website": "https://github.com/frappe/pdf_forms",
     "documentation": "https://github.com/frappe/pdf_forms/blob/develop/README.md",
-    "categories": ["Utilities"],
+    "categories": [
+      "Utilities"
+    ],
     "category": "Utilities",
-    "stars": 0,
+    "stars": 13,
     "releases": "apps/pdf_forms.json"
   },
   {
@@ -1966,7 +1970,10 @@
     "logo_url": "https://raw.githubusercontent.com/photexnp/nepali_calendar/develop/nepali_calendar/public/images/logo.svg",
     "website": "https://github.com/photexnp/nepali_calendar",
     "documentation": "https://github.com/photexnp/nepali_calendar/blob/develop/README.md",
-    "categories": ["Localization", "Utilities"],
+    "categories": [
+      "Localization",
+      "Utilities"
+    ],
     "category": "Utilities",
     "stars": 0,
     "releases": "apps/nepali_calendar.json"
@@ -2003,7 +2010,7 @@
       "Website"
     ],
     "category": "Extensions",
-    "stars": 0,
+    "stars": 2,
     "releases": "apps/login_studio.json"
   }
 ]
