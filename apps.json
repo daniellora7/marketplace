@@ -12,7 +12,7 @@
       "Support"
     ],
     "category": "Applications",
-    "stars": 3506,
+    "stars": 3507,
     "releases": "apps/helpdesk.json"
   },
   {
@@ -208,7 +208,7 @@
       "Healthcare"
     ],
     "category": "Extensions",
-    "stars": 562,
+    "stars": 563,
     "releases": "apps/marley_health.json"
   },
   {
@@ -651,7 +651,7 @@
       "Communication"
     ],
     "category": "Integrations",
-    "stars": 849,
+    "stars": 851,
     "releases": "apps/raven.json"
   },
   {
@@ -667,7 +667,7 @@
       "Website"
     ],
     "category": "Applications",
-    "stars": 461,
+    "stars": 462,
     "releases": "apps/wiki.json"
   },
   {
@@ -700,7 +700,7 @@
       "Human Resources"
     ],
     "category": "Applications",
-    "stars": 9088,
+    "stars": 9091,
     "releases": "apps/hrms.json"
   },
   {
@@ -749,7 +749,7 @@
       "Website"
     ],
     "category": "Developer Tools",
-    "stars": 2499,
+    "stars": 2500,
     "releases": "apps/builder.json"
   },
   {
@@ -782,7 +782,7 @@
       "Extension"
     ],
     "category": "Applications",
-    "stars": 370,
+    "stars": 371,
     "releases": "apps/lending.json"
   },
   {
@@ -797,7 +797,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 3432,
+    "stars": 3439,
     "releases": "apps/lms.json"
   },
   {
@@ -814,7 +814,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 4010,
+    "stars": 4020,
     "releases": "apps/crm.json"
   },
   {
@@ -830,7 +830,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 37,
+    "stars": 38,
     "releases": "apps/whatsapp.json"
   },
   {
@@ -847,7 +847,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 41469,
+    "stars": 41491,
     "releases": "apps/erpnext.json"
   },
   {
@@ -1124,7 +1124,7 @@
       "E-Commerce"
     ],
     "category": "Integrations",
-    "stars": 217,
+    "stars": 218,
     "releases": "apps/ecommerce_integrations.json"
   },
   {
@@ -1313,7 +1313,7 @@
     "documentation": "https://github.com/resilient-tech/payments-processor",
     "categories": [],
     "category": "Extensions",
-    "stars": 17,
+    "stars": 18,
     "releases": "apps/payments_processor.json"
   },
   {
@@ -1701,7 +1701,7 @@
       "Business"
     ],
     "category": "Extensions",
-    "stars": 30,
+    "stars": 31,
     "releases": "apps/propms.json"
   },
   {
@@ -1789,7 +1789,7 @@
     "documentation": null,
     "categories": [],
     "category": "Applications",
-    "stars": 562,
+    "stars": 563,
     "releases": "apps/health.json"
   },
   {
@@ -1913,7 +1913,7 @@
       "Hospitality"
     ],
     "category": "Applications",
-    "stars": 106,
+    "stars": 109,
     "releases": "apps/kamra.json"
   },
   {
@@ -1959,7 +1959,7 @@
       "Utilities"
     ],
     "category": "Utilities",
-    "stars": 13,
+    "stars": 14,
     "releases": "apps/pdf_forms.json"
   },
   {
