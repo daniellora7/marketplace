@@ -12,7 +12,7 @@
       "Support"
     ],
     "category": "Applications",
-    "stars": 3507,
+    "stars": 3509,
     "releases": "apps/helpdesk.json"
   },
   {
@@ -700,7 +700,7 @@
       "Human Resources"
     ],
     "category": "Applications",
-    "stars": 9091,
+    "stars": 9093,
     "releases": "apps/hrms.json"
   },
   {
@@ -797,7 +797,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 3439,
+    "stars": 3443,
     "releases": "apps/lms.json"
   },
   {
@@ -814,7 +814,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 4020,
+    "stars": 4025,
     "releases": "apps/crm.json"
   },
   {
@@ -830,7 +830,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 38,
+    "stars": 39,
     "releases": "apps/whatsapp.json"
   },
   {
@@ -847,7 +847,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 41491,
+    "stars": 41532,
     "releases": "apps/erpnext.json"
   },
   {
@@ -1196,7 +1196,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 94,
+    "stars": 95,
     "releases": "apps/ksa_compliance.json"
   },
   {
@@ -1563,7 +1563,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 7,
+    "stars": 8,
     "releases": "apps/erpnext_ec.json"
   },
   {
@@ -1776,7 +1776,7 @@
       "Integrations"
     ],
     "category": "Extensions",
-    "stars": 182,
+    "stars": 183,
     "releases": "apps/payments.json"
   },
   {
@@ -1913,7 +1913,7 @@
       "Hospitality"
     ],
     "category": "Applications",
-    "stars": 109,
+    "stars": 111,
     "releases": "apps/kamra.json"
   },
   {
@@ -1959,7 +1959,7 @@
       "Utilities"
     ],
     "category": "Utilities",
-    "stars": 14,
+    "stars": 15,
     "releases": "apps/pdf_forms.json"
   },
   {
