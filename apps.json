@@ -12,7 +12,7 @@
       "Support"
     ],
     "category": "Applications",
-    "stars": 3509,
+    "stars": 3510,
     "releases": "apps/helpdesk.json"
   },
   {
@@ -502,7 +502,7 @@
       "Productivity"
     ],
     "category": "Utilities",
-    "stars": 22,
+    "stars": 23,
     "releases": "apps/pospire.json"
   },
   {
@@ -530,7 +530,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 115,
+    "stars": 116,
     "releases": "apps/banking.json"
   },
   {
@@ -559,7 +559,7 @@
     "documentation": "https://docs.frappe.io/erpnext/user/manual/en/education",
     "categories": [],
     "category": "Applications",
-    "stars": 717,
+    "stars": 718,
     "releases": "apps/education.json"
   },
   {
@@ -651,7 +651,7 @@
       "Communication"
     ],
     "category": "Integrations",
-    "stars": 851,
+    "stars": 852,
     "releases": "apps/raven.json"
   },
   {
@@ -700,7 +700,7 @@
       "Human Resources"
     ],
     "category": "Applications",
-    "stars": 9093,
+    "stars": 9099,
     "releases": "apps/hrms.json"
   },
   {
@@ -716,7 +716,7 @@
       "Featured"
     ],
     "category": "Developer Tools",
-    "stars": 1046,
+    "stars": 1047,
     "releases": "apps/insights.json"
   },
   {
@@ -749,7 +749,7 @@
       "Website"
     ],
     "category": "Developer Tools",
-    "stars": 2500,
+    "stars": 2501,
     "releases": "apps/builder.json"
   },
   {
@@ -782,7 +782,7 @@
       "Extension"
     ],
     "category": "Applications",
-    "stars": 371,
+    "stars": 372,
     "releases": "apps/lending.json"
   },
   {
@@ -797,7 +797,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 3443,
+    "stars": 3447,
     "releases": "apps/lms.json"
   },
   {
@@ -814,7 +814,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 4025,
+    "stars": 4026,
     "releases": "apps/crm.json"
   },
   {
@@ -830,7 +830,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 39,
+    "stars": 40,
     "releases": "apps/whatsapp.json"
   },
   {
@@ -847,7 +847,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 41532,
+    "stars": 41567,
     "releases": "apps/erpnext.json"
   },
   {
@@ -895,7 +895,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 21,
+    "stars": 22,
     "releases": "apps/erpnext_australian_localisation.json"
   },
   {
@@ -912,7 +912,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 108,
+    "stars": 109,
     "releases": "apps/eu_einvoice.json"
   },
   {
@@ -944,7 +944,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 98,
+    "stars": 99,
     "releases": "apps/erpnext_germany.json"
   },
   {
@@ -1402,7 +1402,7 @@
       "Productivity"
     ],
     "category": "Utilities",
-    "stars": 115,
+    "stars": 116,
     "releases": "apps/pdf_on_submit.json"
   },
   {
@@ -1701,7 +1701,7 @@
       "Business"
     ],
     "category": "Extensions",
-    "stars": 31,
+    "stars": 32,
     "releases": "apps/propms.json"
   },
   {
@@ -1731,7 +1731,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 6,
+    "stars": 7,
     "releases": "apps/csf_tz.json"
   },
   {
@@ -1913,7 +1913,7 @@
       "Hospitality"
     ],
     "category": "Applications",
-    "stars": 111,
+    "stars": 113,
     "releases": "apps/kamra.json"
   },
   {
@@ -1944,7 +1944,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 10,
+    "stars": 11,
     "releases": "apps/ekyc_india.json"
   },
   {
