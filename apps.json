@@ -12,7 +12,7 @@
       "Support"
     ],
     "category": "Applications",
-    "stars": 3510,
+    "stars": 3512,
     "releases": "apps/helpdesk.json"
   },
   {
@@ -27,7 +27,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 24,
+    "stars": 25,
     "releases": "apps/telephony.json"
   },
   {
@@ -147,7 +147,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 3,
+    "stars": 4,
     "releases": "apps/nigeria_compliance_via_digitax.json"
   },
   {
@@ -282,7 +282,7 @@
     "documentation": "https://github.com/PravinKumarJ-Finstein/reportStudio/blob/develop/README.md",
     "categories": [],
     "category": "Extensions",
-    "stars": 4,
+    "stars": 5,
     "releases": "apps/report_builder.json"
   },
   {
@@ -502,7 +502,7 @@
       "Productivity"
     ],
     "category": "Utilities",
-    "stars": 23,
+    "stars": 24,
     "releases": "apps/pospire.json"
   },
   {
@@ -620,7 +620,7 @@
       "AI"
     ],
     "category": "Extensions",
-    "stars": 337,
+    "stars": 338,
     "releases": "apps/frappe_assistant_core.json"
   },
   {
@@ -651,7 +651,7 @@
       "Communication"
     ],
     "category": "Integrations",
-    "stars": 852,
+    "stars": 854,
     "releases": "apps/raven.json"
   },
   {
@@ -667,7 +667,7 @@
       "Website"
     ],
     "category": "Applications",
-    "stars": 462,
+    "stars": 463,
     "releases": "apps/wiki.json"
   },
   {
@@ -700,7 +700,7 @@
       "Human Resources"
     ],
     "category": "Applications",
-    "stars": 9099,
+    "stars": 9105,
     "releases": "apps/hrms.json"
   },
   {
@@ -749,7 +749,7 @@
       "Website"
     ],
     "category": "Developer Tools",
-    "stars": 2501,
+    "stars": 2503,
     "releases": "apps/builder.json"
   },
   {
@@ -797,7 +797,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 3447,
+    "stars": 3453,
     "releases": "apps/lms.json"
   },
   {
@@ -814,7 +814,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 4026,
+    "stars": 4032,
     "releases": "apps/crm.json"
   },
   {
@@ -847,7 +847,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 41567,
+    "stars": 41597,
     "releases": "apps/erpnext.json"
   },
   {
@@ -1124,7 +1124,7 @@
       "E-Commerce"
     ],
     "category": "Integrations",
-    "stars": 218,
+    "stars": 219,
     "releases": "apps/ecommerce_integrations.json"
   },
   {
@@ -1196,7 +1196,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 95,
+    "stars": 96,
     "releases": "apps/ksa_compliance.json"
   },
   {
@@ -1521,7 +1521,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 286,
+    "stars": 287,
     "releases": "apps/india_compliance.json"
   },
   {
@@ -1640,7 +1640,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 130,
+    "stars": 132,
     "releases": "apps/cargo_management.json"
   },
   {
@@ -1882,7 +1882,7 @@
       "Security"
     ],
     "category": "Extensions",
-    "stars": 8,
+    "stars": 9,
     "releases": "apps/passkeys.json"
   },
   {
@@ -1913,7 +1913,7 @@
       "Hospitality"
     ],
     "category": "Applications",
-    "stars": 113,
+    "stars": 115,
     "releases": "apps/kamra.json"
   },
   {
