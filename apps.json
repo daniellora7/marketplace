@@ -12,7 +12,7 @@
       "Support"
     ],
     "category": "Applications",
-    "stars": 3516,
+    "stars": 3517,
     "releases": "apps/helpdesk.json"
   },
   {
@@ -344,7 +344,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 497,
+    "stars": 498,
     "releases": "apps/frappe_whatsapp.json"
   },
   {
@@ -470,7 +470,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 10,
+    "stars": 11,
     "releases": "apps/erpnext_s3_integration.json"
   },
   {
@@ -700,7 +700,7 @@
       "Human Resources"
     ],
     "category": "Applications",
-    "stars": 9110,
+    "stars": 9115,
     "releases": "apps/hrms.json"
   },
   {
@@ -749,7 +749,7 @@
       "Website"
     ],
     "category": "Developer Tools",
-    "stars": 2503,
+    "stars": 2504,
     "releases": "apps/builder.json"
   },
   {
@@ -814,7 +814,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 4033,
+    "stars": 4038,
     "releases": "apps/crm.json"
   },
   {
@@ -847,7 +847,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 41622,
+    "stars": 41649,
     "releases": "apps/erpnext.json"
   },
   {
@@ -1180,7 +1180,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 71,
+    "stars": 72,
     "releases": "apps/utility_billing.json"
   },
   {
@@ -1521,7 +1521,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 288,
+    "stars": 289,
     "releases": "apps/india_compliance.json"
   },
   {
@@ -1776,7 +1776,7 @@
       "Integrations"
     ],
     "category": "Extensions",
-    "stars": 183,
+    "stars": 184,
     "releases": "apps/payments.json"
   },
   {
