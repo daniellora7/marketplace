@@ -12,7 +12,7 @@
       "Support"
     ],
     "category": "Applications",
-    "stars": 3517,
+    "stars": 3520,
     "releases": "apps/helpdesk.json"
   },
   {
@@ -700,7 +700,7 @@
       "Human Resources"
     ],
     "category": "Applications",
-    "stars": 9115,
+    "stars": 9121,
     "releases": "apps/hrms.json"
   },
   {
@@ -716,7 +716,7 @@
       "Featured"
     ],
     "category": "Developer Tools",
-    "stars": 1050,
+    "stars": 1052,
     "releases": "apps/insights.json"
   },
   {
@@ -749,7 +749,7 @@
       "Website"
     ],
     "category": "Developer Tools",
-    "stars": 2504,
+    "stars": 2507,
     "releases": "apps/builder.json"
   },
   {
@@ -797,7 +797,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 3456,
+    "stars": 3457,
     "releases": "apps/lms.json"
   },
   {
@@ -814,7 +814,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 4038,
+    "stars": 4043,
     "releases": "apps/crm.json"
   },
   {
@@ -847,7 +847,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 41649,
+    "stars": 41684,
     "releases": "apps/erpnext.json"
   },
   {
@@ -1256,7 +1256,7 @@
       "Utility"
     ],
     "category": "Utilities",
-    "stars": 28,
+    "stars": 29,
     "releases": "apps/pwa_frappe.json"
   },
   {
@@ -1521,7 +1521,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 289,
+    "stars": 290,
     "releases": "apps/india_compliance.json"
   },
   {
