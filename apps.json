@@ -12,7 +12,7 @@
       "Support"
     ],
     "category": "Applications",
-    "stars": 3520,
+    "stars": 3522,
     "releases": "apps/helpdesk.json"
   },
   {
@@ -208,7 +208,7 @@
       "Healthcare"
     ],
     "category": "Extensions",
-    "stars": 563,
+    "stars": 564,
     "releases": "apps/marley_health.json"
   },
   {
@@ -700,7 +700,7 @@
       "Human Resources"
     ],
     "category": "Applications",
-    "stars": 9121,
+    "stars": 9125,
     "releases": "apps/hrms.json"
   },
   {
@@ -749,7 +749,7 @@
       "Website"
     ],
     "category": "Developer Tools",
-    "stars": 2507,
+    "stars": 2509,
     "releases": "apps/builder.json"
   },
   {
@@ -814,7 +814,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 4043,
+    "stars": 4047,
     "releases": "apps/crm.json"
   },
   {
@@ -847,7 +847,7 @@
       "Featured"
     ],
     "category": "Applications",
-    "stars": 41684,
+    "stars": 41696,
     "releases": "apps/erpnext.json"
   },
   {
@@ -1180,7 +1180,7 @@
       "Integrations"
     ],
     "category": "Integrations",
-    "stars": 72,
+    "stars": 73,
     "releases": "apps/utility_billing.json"
   },
   {
@@ -1196,7 +1196,7 @@
       "Localization"
     ],
     "category": "Compliance",
-    "stars": 96,
+    "stars": 97,
     "releases": "apps/ksa_compliance.json"
   },
   {
@@ -1789,7 +1789,7 @@
     "documentation": null,
     "categories": [],
     "category": "Applications",
-    "stars": 563,
+    "stars": 564,
     "releases": "apps/health.json"
   },
   {
@@ -1913,7 +1913,7 @@
       "Hospitality"
     ],
     "category": "Applications",
-    "stars": 115,
+    "stars": 116,
     "releases": "apps/kamra.json"
   },
   {
